@@ -166,10 +166,10 @@ table.table td i {
     font-size: 16px;
     padding-top: 6px
 }
-.hint-text {
-    float: left;
-    margin-top: 10px;
-    font-size: 13px;
+.signup-form .hint-text {
+    color: #999;
+    margin-bottom: 30px;
+    text-align: center;
 }
 *::before,
 *::after {
